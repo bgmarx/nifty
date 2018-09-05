@@ -1,0 +1,12 @@
+/Users/ben/Dropbox/dev/nifty/native/nifty/target/debug/deps/librustler_codegen-cf55a4f903b24a53.dylib: /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/lib.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/util.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/tuple.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/record.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/map.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/ex_struct.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/unit_enum.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/untagged_enum.rs
+
+/Users/ben/Dropbox/dev/nifty/native/nifty/target/debug/deps/rustler_codegen-cf55a4f903b24a53.d: /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/lib.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/util.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/tuple.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/record.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/map.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/ex_struct.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/unit_enum.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/untagged_enum.rs
+
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/lib.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/util.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/tuple.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/record.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/map.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/ex_struct.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/unit_enum.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_codegen-0.18.0/src/untagged_enum.rs:

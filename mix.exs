@@ -6,9 +6,18 @@ defmodule Nifty.MixProject do
       app: :nifty,
       version: "0.1.0",
       elixir: "~> 1.6",
+      compilers: [:rustler] ++ Mix.compilers,
+      rustler_crates: rustler_crates(),
       start_permanent: Mix.env() == :prod,
       deps: deps()
     ]
+  end
+
+  defp rustler_crates do
+    [nifty: [
+      path: "native/nifty",
+      mode: (if Mix.env == :prod, do: :release, else: :debug),
+    ]]
   end
 
   # Run "mix help compile.app" to learn about applications.
@@ -18,11 +27,16 @@ defmodule Nifty.MixProject do
     ]
   end
 
+  defp aliases do
+    [
+      "test": ["cmd cd native/nifty && cargo test", "test"],
+    ]
+  end
+
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      # {:dep_from_hexpm, "~> 0.3.0"},
-      # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"},
+      {:rustler, "~> 0.18"}
     ]
   end
 end

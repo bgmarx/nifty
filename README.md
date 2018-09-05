@@ -19,3 +19,5 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/nifty](https://hexdocs.pm/nifty).
 
+* [Dirty Schedulers](https://github.com/hansihe/rustler/pull/29/files)
+* [repr(c)](https://doc.rust-lang.org/nomicon/other-reprs.html)
